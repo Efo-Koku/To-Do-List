@@ -226,9 +226,13 @@ In CSS, pseudo-elements are written after pseudo-classes.
 }
 
 @media screen and (max-width: 500px) {
-    form,
-    form button {
+    form input,
+    form {
         flex-direction: column;
     }
 
+    
+    select {
+        background: #fff;
+   }
 }
