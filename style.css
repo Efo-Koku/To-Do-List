@@ -290,12 +290,6 @@ In CSS, pseudo-elements are written after pseudo-classes.
 
  }
 
-    @media (orientation: landscape) {
-  select {
-      background: #fff;
-  }
-        
-}
 
 
 
