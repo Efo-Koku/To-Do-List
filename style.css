@@ -146,7 +146,7 @@ form button:hover {
 }
 
 /*
-We can't style the actaul <select> without first removing all the pre-stylling from it.
+We can't style the actual <select> without first removing all the pre-stylling from it.
 We then style the <div> with a class name of "select".
 */
 select{
@@ -204,7 +204,7 @@ In CSS, pseudo-elements are written after pseudo-classes.
     align-items: center;
 }
 
-
+/*
 @media screen and (max-width: 700px){
     header {
         font-size: 1.2rem;
@@ -236,3 +236,6 @@ In CSS, pseudo-elements are written after pseudo-classes.
         background: #fff;
    }
 }
+
+*/
+
